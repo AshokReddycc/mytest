@@ -1,1 +1,7 @@
 line 1
+
+Started fix bug1
+finished fix bug1
+start working bug2
+test
+testing fineshed
