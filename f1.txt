@@ -6,4 +6,4 @@ start working bug2
 test
 testing fineshed
 
-hello
+a = b
